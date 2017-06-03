@@ -1,0 +1,12 @@
+{
+  "name"             : "Nozum",
+  "description"      : "The open source forum software project.",
+  "lang"             : "en_US",
+  "theme"            : "gameforest",
+  "integration"		 : "Nozum",
+  "siteRoot"         : "",
+  "newsForum"        : 0,
+  "defaultGroup"     : 0,
+  "captchaPublicKey" : "",
+  "captchaPrivateKey": ""
+}

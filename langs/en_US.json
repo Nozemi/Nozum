@@ -1,0 +1,17 @@
+{
+  "General Strings": {
+    "home": "Home"
+  },
+  "Error Messages" : {
+    "wrong_password"  : "Sorry, the username or password is incorrect.",
+    "complexity"      : "Sorry, the password didn't meet the requirements.",
+
+    "username_taken"  : "Sorry, the username is already in use.",
+    "username_invalid": "Sorry, that is not a valid username.",
+    "username_short"  : "Sorry, the username is too short.",
+    "username_long"   : "Sorry, the username is too long.",
+
+    "email_taken"     : "Sorry, that email address is already in use.",
+    "email_invalid"   : "Sorry, that is not a valid email address."
+  }
+}
